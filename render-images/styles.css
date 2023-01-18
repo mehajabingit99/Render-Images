@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: whitesmoke;
+    color: #130e0f;
+}
+
+h1{
+    padding-top: 20px;
+    letter-spacing: 2px;
+    font-weight: 200;
+}
+
+#container{
+    width: 100%;
+}
+
+.team-img{
+    width: 100px;
+    border-radius: 100%;
+    margin: 10px;
+}
