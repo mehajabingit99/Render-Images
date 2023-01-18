@@ -5,8 +5,8 @@ const imgs =[
 ]
 const container = document.getElementById("container")
 function renderImages(){
-    var imgsDOM = ""
-    for( var i=0; i<imgs.length; i++){
+    let imgsDOM = ""
+    for( let i=0; i<imgs.length; i++){
         imgsDOM += `<img alt="Employee in the company" class="team-img" src="${imgs[i]}">`
 
     }
